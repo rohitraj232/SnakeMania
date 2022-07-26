@@ -3,5 +3,4 @@ A snake game is a simple game where a snake moves around a box trying to eat an 
 
 # Output
 
-https://user-images.githubusercontent.com/57895889/181078554-8afce86d-11b6-4774-b49d-981ff6e92a9d.mp4
-
+https://user-images.githubusercontent.com/57895889/181079100-d11f176b-7647-4568-897b-a64399454902.mp4
